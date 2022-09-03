@@ -6,6 +6,8 @@ Desarrollado durante el BootCamp de Java Fullstack 2022, Agosto 2022
 **Alejandro Trujillo Oyarzún**
 [trujillo.alejandro@gmail.com](mailto:trujillo.alejandro@gmail.com)
 
+[LinkedIn](https://www.linkedin.com/in/alejandro-trujillo-oyarzun/)
+
 # Entorno
 Poyecto Java desarrollado utilizando :
 
