@@ -1,6 +1,11 @@
 # Servicio-Control-de-Destinos-
 Es un Servicio Control de Destinos, pues utiliza JPA y Lombok para crear el CRUD
 Desarrollado durante el BootCamp de Java Fullstack 2022, Agosto 2022 
+
+## Autor -
+**Alejandro Trujillo**
+*[correo](trujillo.alejandro@gmail.com)
+
 # Entorno
 Poyecto Java desarrollado utilizando :
 
