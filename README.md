@@ -11,8 +11,8 @@ OS: Windows 11, v.10.0, x86_64 / win32
 Java vendor: Eclipse Adoptium
 Java runtime version: 17.0.3+7
 Java version: 17.0.3
-
-# BD  ORACLE 21
+</br>
+ BD  ORACLE 21
 spring.datasource.driver-class-name: oracle.jdbc.OracleDriver
 spring.datasource.url: jdbc:oracle:thin:@localhost:1521:XE
 spring.datasource.username: EDUTECNO
