@@ -7,6 +7,8 @@ Desarrollado durante el BootCamp de Java Fullstack 2022, Agosto 2022
 [trujillo.alejandro@gmail.com](mailto:trujillo.alejandro@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/alejandro-trujillo-oyarzun/)
+## Ver Ejemplo en Vivo
+[https://trujillo-alejandro.github.io/Servicio-Control-de-Destinos-/]
 
 # Entorno
 Poyecto Java desarrollado utilizando :
