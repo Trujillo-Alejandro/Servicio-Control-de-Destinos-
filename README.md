@@ -4,7 +4,7 @@ Desarrollado durante el BootCamp de Java Fullstack 2022, Agosto 2022
 
 ## Autor 
 <h3>Alejandro Trujillo</h3>
-[trujillo.alejandro@gmail.com](mailto:trujillo.alejandro@gmail.com)
+*[trujillo.alejandro@gmail.com](mailto:trujillo.alejandro@gmail.com)
 
 # Entorno
 Poyecto Java desarrollado utilizando :
