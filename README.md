@@ -3,9 +3,9 @@ Es un Servicio Control de Destinos, pues utiliza JPA y Lombok para crear el CRUD
 Desarrollado durante el BootCamp de Java Fullstack 2022, Agosto 2022 
 
 ## Autor 
-**Alejandro Trujillo**
+<h4>Alejandro Trujill
 [trujillo.alejandro@gmail.com](mailto:trujillo.alejandro@gmail.com)
-
+</h4>
 # Entorno
 Poyecto Java desarrollado utilizando :
 
