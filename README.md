@@ -11,7 +11,7 @@ Desarrollado durante el BootCamp de Java Fullstack 2022, Agosto 2022
 [https://trujillo-alejandro.github.io/Servicio-Control-de-Destinos-/]
 
 # Entorno
-Poyecto Java desarrollado utilizando :
+Proyecto Java desarrollado utilizando :
 
 Spring Tool Suite 4 
 Version: 4.15.1.RELEASE
